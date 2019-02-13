@@ -17,7 +17,7 @@ IMK - A
   - **No Alternative\.**  
     The slider is the only way to go to another page quickly. It is the only one option and it is bad.
 
-  ![it is just bad](/src/drive.png)
+  ![Drive pdf](/src/drivepdf.png)
 
 ##### 1.2 Suggestions.  
   - **Add alternative**  
