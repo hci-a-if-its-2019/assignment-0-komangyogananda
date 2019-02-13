@@ -2,9 +2,9 @@ Komang Yogananda Mahaputra Wisna
 05111740000114  
 IMK - A  
 
-#Assigment 0
+# Assigment 0
 
-### Exapmle of app features with bad or problematic UI.  
+### Example of app features with bad or problematic UI.  
 
 #### 1. Drive PDF Viewer Android Page Slider Feature  
 ##### 1.1 Bad Things.  
@@ -17,7 +17,7 @@ IMK - A
   - **No Alternative\.**  
     The slider is the only way to go to another page quickly. It is the only one option and it is bad.
 
-  ![it is just bad](/src/drivepng.png)
+  ![it is just bad](/src/drive.png)
 
 ##### 1.2 Suggestions.  
   - **Add alternative**  
@@ -27,6 +27,7 @@ IMK - A
     Typing method is the most simple way to go to another page quickly yet so fast and realiable. Exact page, no difficulties.
 
 ##### 1.3 Someone is in trouble.
+  ![Video Demo](/src/drivepdf.mp4)
 
 #### 2. Adobe Acrobat Reader Android Page Pointer Feature  
 ##### 2.1 Bad Things.  
@@ -49,6 +50,7 @@ IMK - A
     Typing method is the most simple way to go to another page quickly yet so fast and realiable. Exact page, no difficulties.
 
 ##### 2.3 Someone is in trouble.
+  ![Video Demo](/src/adobe.mp4)
 
 #### 3. VLC Android Settings Feature  
 ##### 3.1 Bad Things.
